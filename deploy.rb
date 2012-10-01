@@ -36,7 +36,7 @@ run_step "Rebasing the master branch from origin/master...",
   "git pull --rebase origin master"
 
 run_step "Merging master into development to make sure hotfixes on master are included in development...",
-  "git checkout development"
+  "git checkout development",
   "git merge master"
 
 run_step "Running tests...",
