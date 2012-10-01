@@ -10,6 +10,7 @@ def run_cmd cmd
   unless wait_thread.value.success?
     puts "Command failed with error:\n\n #{stderr.read}".red
     puts "Command standard output was:\n\n #{stdout.read}"
+    system "say 'deploy failed'"
     abort
   end
 end
