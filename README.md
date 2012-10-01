@@ -47,3 +47,5 @@ should be ran manually)
 README files to see examples of specs
 * integration tests use Capybara and go to `spec/integration`
 * if used, request tests should go to `spec/requests` (see [this post](http://blog.plataformatec.com.br/2012/06/improving-the-integration-between-capybara-and-rspec/) for a discussion)
+
+dev commit 1
