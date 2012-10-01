@@ -1,0 +1,17 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: flo_test_deploy_development
+  pool: 5
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: flo_test_deploy_test
+  pool: 5
+
+production:
+  adapter: postgresql
+  encoding: unicode
+  database: flo_test_deploy_production
+  pool: 5
