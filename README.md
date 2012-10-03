@@ -4,6 +4,8 @@ Your app name
 a change
 other change
 
+weoiruweoiru
+
 Installation
 ---
 * install the gems: `bundle`
