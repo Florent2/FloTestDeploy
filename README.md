@@ -9,6 +9,8 @@ other
 renew
 new
 
+weoiru
+
 
 Installation
 ---
