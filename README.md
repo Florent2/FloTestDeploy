@@ -2,6 +2,7 @@ Your app name
 ===
 
 a change
+other change
 
 Installation
 ---
