@@ -1,6 +1,8 @@
 Your app name
 ===
 
+a change
+
 Installation
 ---
 * install the gems: `bundle`
