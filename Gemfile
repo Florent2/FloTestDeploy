@@ -35,10 +35,13 @@ group :development do
   gem "guard-spork"
   gem "pry-rails"
   gem "growl-rspec"
+  gem "cucumber-rails"
 end
 
 group :test do
   gem "rspec-rails"
   gem "growl-rspec"
   gem "capybara"
+  gem "cucumber-rails"
+  gem 'database_cleaner'
 end

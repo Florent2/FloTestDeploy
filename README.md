@@ -1,17 +1,12 @@
 Your app name
 ===
 
-weoiru
-weoriu
-misc change
-other
+a change
+other change
 
+weoiruweoiru
 
-renew
-new
-
-weoiru
-
+bibi
 
 new change
 
