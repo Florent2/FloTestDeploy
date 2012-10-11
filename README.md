@@ -16,6 +16,8 @@ weoiru
 weoriu
 woeiur
 
+weoriu
+owoieru
 
 Installation
 ---
