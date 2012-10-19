@@ -2,6 +2,6 @@ require 'spec_helper'
 
 describe Product do
   it "is true" do
-    Product.create.should be_valid
+    Product.create.should be_invalid
   end
 end
