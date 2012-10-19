@@ -35,7 +35,6 @@ group :development do
   gem "guard-spork"
   gem "pry-rails"
   gem "growl-rspec"
-  gem "cucumber-rails"
 end
 
 group :test do
